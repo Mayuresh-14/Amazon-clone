@@ -19,7 +19,7 @@
 }
 
 .logo {
-    background-image: url(https://www.hatchwise.com/wp-content/uploads/2022/05/amazon-logo-1024x683.png);
+    background-image: url(logo.png);
     height: 50px;
     width: 100px;
     background-size: cover;
@@ -153,7 +153,7 @@
 
 /* hero-section */
 .hero-section {
-    background-image: url(https://m.media-amazon.com/images/I/61lwJy4B8PL._SX3000_.jpg);
+    background-image: url(background_image.jpg);
     height: 325px;
     background-size: cover;
     display: flex;
@@ -257,7 +257,7 @@ ul a {
 }
 
 .logo {
-    background-image: url(https://www.hatchwise.com/wp-content/uploads/2022/05/amazon-logo-1024x683.png);
+    background-image: url(logo.png);
     background-size: cover;
     height: 50px;
     width: 100px;
